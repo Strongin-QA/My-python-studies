@@ -47,4 +47,4 @@ jobs:
       #       context: 'Test report'
       #       state: 'success'
       #       sha: ${{ github.event.pull_request.head.sha }}
-      #       target_url: muvstro.github.io/github-allure-history/${{ github.run_number }}
+      #       target_url: https://strongin-qa.github.io/My-python-studies/${{ github.run_number }}
